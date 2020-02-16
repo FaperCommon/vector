@@ -1,0 +1,50 @@
+﻿  Source.cpp
+c:\users\faper\source\repos\vector\vector\vector.h(306): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\faper\source\repos\vector\vector\vector.h(305): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\faper\source\repos\vector\vector\source.cpp(103): note: выполняется компиляция ссылки на экземпляр шаблон функции "int vector<int>::at(int)"
+  c:\users\faper\source\repos\vector\vector\source.cpp(18): note: выполняется компиляция ссылки на экземпляр шаблон класс "vector<int>"
+c:\users\faper\source\repos\vector\vector\vector.h(255): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\faper\source\repos\vector\vector\vector.h(253): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\faper\source\repos\vector\vector\source.cpp(85): note: выполняется компиляция ссылки на экземпляр шаблон функции "void vector<int>::insert(T *,unsigned int,T)"
+          with
+          [
+              T=int
+          ]
+c:\users\faper\source\repos\vector\vector\vector.h(256): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\faper\source\repos\vector\vector\vector.h(247): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\faper\source\repos\vector\vector\vector.h(245): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\faper\source\repos\vector\vector\source.cpp(74): note: выполняется компиляция ссылки на экземпляр шаблон функции "void vector<int>::insert(T *,T)"
+          with
+          [
+              T=int
+          ]
+c:\users\faper\source\repos\vector\vector\vector.h(275): warning C4804: <: небезопасное использование типа "bool" в операции
+  c:\users\faper\source\repos\vector\vector\vector.h(273): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\faper\source\repos\vector\vector\source.cpp(94): note: выполняется компиляция ссылки на экземпляр шаблон функции "void vector<int>::erase(T *)"
+          with
+          [
+              T=int
+          ]
+c:\users\faper\source\repos\vector\vector\vector.h(275): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\faper\source\repos\vector\vector\vector.h(276): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\faper\source\repos\vector\vector\vector.h(265): warning C4018: >: несоответствие типов со знаком и без знака
+  c:\users\faper\source\repos\vector\vector\vector.h(261): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\faper\source\repos\vector\vector\vector.h(257): note: выполняется компиляция ссылки на экземпляр шаблон функции "void vector<int>::insert(unsigned int,T)"
+          with
+          [
+              T=int
+          ]
+  c:\users\faper\source\repos\vector\vector\vector.h(171): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\faper\source\repos\vector\vector\source.cpp(50): note: выполняется компиляция ссылки на экземпляр шаблон функции "void vector<int>::push_back(const T &)"
+          with
+          [
+              T=int
+          ]
+c:\users\faper\source\repos\vector\vector\vector.h(285): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\faper\source\repos\vector\vector\vector.h(283): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\faper\source\repos\vector\vector\vector.h(254): note: выполняется компиляция ссылки на экземпляр шаблон функции "int vector<int>::find(T *)"
+          with
+          [
+              T=int
+          ]
+  vector.vcxproj -> C:\Users\faper\source\repos\vector\Debug\vector.exe
